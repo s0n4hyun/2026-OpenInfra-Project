@@ -16,6 +16,8 @@ Git은 코드의 변경 내역을 관리하는 도구이고, GitHub는 코드를
 
 Sphinx 문서 구조를 구성하고, tox를 이용한 HTML 문서 빌드에 성공했다. Git Branch를 생성해 작업한 내용을 Commit, Push하고 원본 저장소에 Pull Request를 제출했다.
 
+**실습 결과:** [Pull Request #1](https://github.com/openstack-kr/openstack-kubernetes-students/pull/1)
+
 ## 2. Sphinx와 tox
 
 - **reStructuredText(rST)** : 기술 문서를 작성할 때 사용하는 문서 형식
