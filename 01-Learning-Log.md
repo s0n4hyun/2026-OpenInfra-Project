@@ -14,11 +14,7 @@ Git은 코드의 변경 내역을 관리하는 도구이고, GitHub는 코드를
 
 ### 직접 실습한 내용
 
-1. 학생용 GitHub 저장소를 Fork했다.
-2. `docs-setup`이라는 새로운 브랜치를 생성했다.
-3. `git clone`으로 저장소를 내 컴퓨터에 가져왔다.
-4. Sphinx 문서 파일을 작성하고 Commit, Push했다.
-5. 원본 저장소에 Pull Request를 생성했다.
+Sphinx 문서 구조를 구성하고, tox를 이용한 HTML 문서 빌드에 성공했다. Git Branch를 생성해 작업한 내용을 Commit, Push하고 원본 저장소에 Pull Request를 제출했다.
 
 ## 2. Sphinx와 tox
 
