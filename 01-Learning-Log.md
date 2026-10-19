@@ -1,4 +1,4 @@
-# 01 Git/GitHub 및 Sphinx·tox 학습 기록
+# 01. Git/GitHub 및 Sphinx·tox 학습 기록
 
 ## 1. Git/GitHub
 
