@@ -22,18 +22,7 @@ Git Branch는 기존 코드를 유지하면서 별도로 작업할 수 있도록
 | `git merge <name>` | 다른 브랜치의 변경사항 병합 |
 | `git branch -d <name>` | 로컬 브랜치 삭제 |
 
-## 3. 실습 내용
-
-1. GitHub에서 `docs-setup` 브랜치 생성
-2. `git clone`으로 Fork한 저장소를 로컬에 복제
-3. `git switch docs-setup`으로 작업 브랜치 전환
-4. `git branch`로 현재 브랜치 확인
-5. Sphinx 문서 파일 작성 후 Commit 및 Push
-6. 원본 저장소에 Pull Request 생성
-
-**실습 결과:** [Pull Request #1](https://github.com/openstack-kr/openstack-kubernetes-students/pull/1)
-
-## 4. 새롭게 알게 된 점
+## 3. 새롭게 알게 된 점
 
 Branch를 사용하면 기본 브랜치를 직접 수정하지 않고 별도로 작업할 수 있다는 것을 알게 되었다.
 
