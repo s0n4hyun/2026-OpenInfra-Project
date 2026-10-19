@@ -46,7 +46,7 @@ git push -u origin docs-setup
 python -m tox -e docs
 ```
 
-# 마지막 명령어는 tox를 이용해 Sphinx HTML 문서를 빌드할 때 사용한다.
+마지막 명령어는 tox를 이용해 Sphinx HTML 문서를 빌드할 때 사용한다.
 
 ## 3. 오류를 통해 배운 점
 
