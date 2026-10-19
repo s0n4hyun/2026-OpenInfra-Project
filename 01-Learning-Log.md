@@ -14,9 +14,7 @@ Git은 코드의 변경 내역을 관리하는 도구이고, GitHub는 코드를
 
 ### 직접 실습한 내용
 
-Sphinx 문서 구조를 구성하고, tox를 이용한 HTML 문서 빌드에 성공했다. Git Branch를 생성해 작업한 내용을 Commit, Push하고 원본 저장소에 Pull Request를 제출했다.
-
-**실습 결과:** [Pull Request #1](https://github.com/openstack-kr/openstack-kubernetes-students/pull/1)
+Sphinx 문서 구조를 구성하고 tox를 이용한 HTML 문서 빌드에 성공했다. Git Branch를 생성해 작업한 내용을 Commit, Push함.
 
 ## 2. Sphinx와 tox
 
@@ -48,7 +46,7 @@ git push -u origin docs-setup
 python -m tox -e docs
 ```
 
-마지막 명령어는 tox를 이용해 Sphinx HTML 문서를 빌드할 때 사용한다.
+# 마지막 명령어는 tox를 이용해 Sphinx HTML 문서를 빌드할 때 사용한다.
 
 ## 3. 오류를 통해 배운 점
 
